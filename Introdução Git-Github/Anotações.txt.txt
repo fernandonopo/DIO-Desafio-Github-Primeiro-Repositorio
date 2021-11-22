@@ -1,1 +1,7 @@
 Link para download do  Git: https://git-scm.com/downloads
+
+Descrição do Desafio
+Reforce seu conhecimento em Git com um desafio de projeto totalmente prático, onde você executará todos os passos para a criação, atualização e sincronização de um repositório no GitHub. Para isso, tenha em mente todas as dicas e direcionamentos apresentados pelo expert nas aulas. Dessa forma, você poderá compartilhar suas anotações e exercícios em seu próprio repositório. Criando assim, o primeiro (de muitos) projetos do seu portfólio.)
+
+Links Úteis
+## [ Criando o Primeiro repositório no GitHub para Compartilhar Progresso] (https://web.dio.me/lab/criando-seu-primeiro-repositorio-no-github-para-compartilhar-seu-progresso/learning/d5854276-7461-4b80-96e3-e8b6f9b21eeb)
